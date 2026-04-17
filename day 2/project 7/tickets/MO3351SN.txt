@@ -1,0 +1,1 @@
+User Name: Sina  Submitted: 2026-04-17T18:50:59.160+03:00  Description: User cannot login because VPN is not available. This prevents authentication for domain-joined device/remote access.  Status: Open Prio: Urgent
