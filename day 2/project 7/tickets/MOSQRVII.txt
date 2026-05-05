@@ -1,0 +1,4 @@
+User Name: Cüneyt  
+Submitted: 2026-05-05T17:46:49.675+03:00  
+Description: Kullanıcı EFT işleminin çalışmadığını bildirdi. Hata mesajı alınmıyor. Otomatik çözüm adımları bulunamadığı için uzman desteğine yönlendirildi.  ,Status: Open 
+Prio: Urgent
