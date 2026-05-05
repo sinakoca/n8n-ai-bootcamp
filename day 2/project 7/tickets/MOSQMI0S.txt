@@ -1,0 +1,4 @@
+User Name: Cüneyt  
+Submitted: 2026-05-05T17:42:38.915+03:00  
+Description: Kullanıcı Cüneyt, şirket içi EFT yazılımının çalışmadığını bildirdi. Wiki araması yapılamadı.  ,Status: Open 
+Prio: Not Urgent
